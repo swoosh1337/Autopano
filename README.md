@@ -8,7 +8,7 @@ The project requires capturing multiple images, each of which should have at lea
 
 The stitching algorithm used in this project is designed to work for most image sets, but some sets may require additional creativity to achieve optimal results. The algorithm relies on identifying common features in the images, aligning them, and then blending them together to create the final panorama.
 
-##How to Use
+## How to Use
 
 To use this project, simply capture multiple images that have similar features and run the provided stitching algorithm. The algorithm will automatically detect the common features and align the images to create a seamless panorama. The resulting panorama image can then be saved and shared.
 
