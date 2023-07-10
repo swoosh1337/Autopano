@@ -12,7 +12,3 @@ The stitching algorithm used in this project is designed to work for most image 
 
 To use this project, simply capture multiple images that have similar features and run the provided stitching algorithm. The algorithm will automatically detect the common features and align the images to create a seamless panorama. The resulting panorama image can then be saved and shared.
 
-## Contributions
-
-Contributions to this project are welcome and encouraged. If you have any ideas for improving the stitching algorithm or would like to add additional features, please feel free to submit a pull request.
-
